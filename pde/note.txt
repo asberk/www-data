@@ -1,0 +1,10 @@
+Couldn't get moving-lines.html to load properly.
+
+This file attempts to load linessandbox.pde, Line.pde and
+Track.pde. These files are used only by moving-lines.html and by no
+other files (at the time of this writing). 
+
+As a result I never bothered trying to get grob-sandbox to work
+(unfortunately). It might be worth seeing if the files in
+www-data/Processing/Grob/ are functional; otherwise, just scp the
+local files from Sketches/ProjMap/grob-sandbox/.

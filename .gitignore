@@ -22,3 +22,8 @@ _gh_pages
 vendor
 temp
 tmp
+
+img
+./**/*.jpg
+./**/*.png
+*~
